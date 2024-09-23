@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family: "SUSE", sans-serif;
+}
+
+h1 {
+    margin: 10px;
+    font-size: 40px;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+.container {
+    width: 220px;
+    height: 220px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: rgb(241, 91, 91);
+}
+
+.purple {
+    background-color: rgb(131, 110, 163);
+}
+
+.pink {
+    background-color: pink;
+}
+
+.flash {
+    background-color: #fff;
+}
+.userflash{
+    background-color: rgb(21, 173, 21);
+}
