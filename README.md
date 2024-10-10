@@ -1,2 +1,2 @@
 # simonGame
-game 
+This a mind game.
