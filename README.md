@@ -1,2 +1,2 @@
 # simonGame
-This a mind game.
+This a mind game - form
