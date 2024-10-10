@@ -1,3 +1,3 @@
 # simonGame
-his a mind game - form
+this a mind game - greenLight
 This a mind game - button
